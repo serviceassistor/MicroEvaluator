@@ -1,10 +1,14 @@
-# MicroEvaluator
+# MicroEvaluator Introduction
 
 ## Project Introduction
 
 *MicroEvaluator* aims to provide decomposition/decoupling solution and evalaute the solution for the migration from legacy system to a microservice-based architecture. 
 The project will identify promising microservice candidates from a legacy software system, evaluate whether these service candidates meet the design principles of services.
 MicroEvaluator assesses  the services' quality attributes in terms of  design principles, such as  the single responsility principle, the high cohesion and low coupling, the evolvability, and the low interaction complexity.
+
+This project would present the microevaluator tool and its GUI.
+
+*The demo video：https://www.bilibili.com/video/BV1Vi4y1L7bP/ *
 
 ## Web
 
@@ -21,7 +25,6 @@ Used to obtain the data passed by the front end, perform microservice decomposit
 ## System interface
 
 
-*工具演示视频地址：https://www.bilibili.com/video/BV1Vi4y1L7bP/ *
 
 ### Main Page
 ![Home Page ScreenShot](./images/homepage.png)
