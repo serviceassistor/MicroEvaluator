@@ -57,7 +57,3 @@ In the project overview page, click the select file and click the Upload button 
 ![Home Page ScreenShot](./images/interactioncomplexity2.png)
 
 These pages show the result of the maintainability of the microservice system
-
-
-
-演示视频地址：https://www.bilibili.com/video/BV1Vi4y1L7bP/
